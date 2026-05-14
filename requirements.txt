@@ -1,0 +1,8 @@
+contextily
+geopandas
+ipywidgets
+matplotlib
+numpy
+pyproj
+rasterio
+shapely
