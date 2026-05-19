@@ -1,1 +1,1 @@
-# wri-demo
+# Western Wildfire Resilience Index Demo
